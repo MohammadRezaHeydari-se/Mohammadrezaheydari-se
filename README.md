@@ -22,7 +22,11 @@ My work involves:
 - Deploying application updates and troubleshooting issues
 - Improving server configuration and day-to-day operations
 
-The application and infrastructure repositories are private, but you can visit the [live website](https://automationsguiden.se/).
+The production application and infrastructure repositories remain **private**. I share a separate, fictional-data [public LMS demo](https://github.com/MohammadRezaHeydari-se/AG-Learning-Platform-Demo) to illustrate selected engineering concepts without exposing production code or information.
+
+**Platform concept:** A learning-management environment for technical education, bringing together courses, educational content and user-facing learning workflows. I continue to work on the platform's maintainability, performance, security, reliability and deployment processes. These are ongoing areas of improvement, not claims of completed security certification or production hardening.
+
+**Live platform:** [automationsguiden.se](https://automationsguiden.se/).
 
 ## Tools & technologies
 
@@ -37,7 +41,18 @@ The application and infrastructure repositories are private, but you can visit t
 
 These are technologies I've used in projects, coursework, or practical work. I'm always learning and expanding my experience.
 
-## Projects
+## Featured public project
+
+### [AG Learning Platform Demo](https://github.com/MohammadRezaHeydari-se/AG-Learning-Platform-Demo)
+An **independent, simplified portfolio demonstration** inspired by the concepts behind the private Automationsguiden LMS. It is **not the production codebase** or a complete feature-for-feature replica.
+
+- Django authentication, Admin/Teacher/Student roles, course and lesson permissions, enrollment and dashboards
+- Docker Compose local setup, Bash and PowerShell launchers, automated tests and GitHub Actions CI
+- Fictional data and local-only operation; no real user data, production secrets or private code
+
+**Python · Django · Linux · Docker Compose · Bash · PowerShell · GitHub Actions · CI · RBAC**
+
+## Other projects
 
 ### [DevOps Interview Lab](https://github.com/MohammadRezaHeydari-se/DevOps_Interview_Lab)
 A Python-based practice tool for junior DevOps, cloud, and infrastructure interviews. It includes a question bank, role-focused practice sessions, a command-line interface, and tests.
