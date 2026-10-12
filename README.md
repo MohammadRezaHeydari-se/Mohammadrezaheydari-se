@@ -1,24 +1,80 @@
-# 💫 About Me:
-Devops engineer student in Nackademin
+# Hi, I'm Mohammad Reza Heydari 👋
 
+**DevOps Engineering Student | Backend Developer & DevOps Engineer**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-reza-heydari-76b102229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+📍 Stockholm, Sweden · 🎓 Nackademin
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohammadRezaHeydari-se&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MohammadRezaHeydari-se&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRezaHeydari-se&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy figuring out how systems work, solving problems, and making everyday technical work a little simpler. I'm studying DevOps Engineering at Nackademin and building practical experience with Linux, cloud infrastructure, automation, and backend development.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Alongside my studies, I work on a live learning platform at **Automationsguiden**. It's where I get to apply what I learn to real servers, deployments, and applications — and keep learning from the challenges that come with running software.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MohammadRezaHeydari-se&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm particularly interested in **DevOps, Linux, cloud platforms, IT infrastructure, and automation**.
+
+## What I work on
+
+### Backend Developer & DevOps Engineer — Automationsguiden
+
+[Automationsguiden](https://automationsguiden.se/) is a Swedish learning platform focused on industrial automation and technical education.
+
+My work involves:
+- Developing and maintaining backend functionality with Python and Django
+- Working with Linux servers, Nginx, and Gunicorn
+- Deploying application updates and troubleshooting issues
+- Improving server configuration and day-to-day operations
+
+The application and infrastructure repositories are private, but you can visit the [live website](https://automationsguiden.se/).
+
+## Tools & technologies
+
+| Area | Tools and technologies |
+| --- | --- |
+| Systems & infrastructure | Linux, Windows Server, networking, Active Directory |
+| Cloud & virtualization | Microsoft Azure, Hyper-V |
+| Programming & scripting | Python, Java, Bash |
+| Backend | Django, Flask, REST APIs |
+| Automation & version control | Ansible, SSH, Git, GitHub |
+| Web servers & databases | Nginx, Apache, Gunicorn, SQL, SQLite |
+
+These are technologies I've used in projects, coursework, or practical work. I'm always learning and expanding my experience.
+
+## Projects
+
+### [DevOps Interview Lab](https://github.com/MohammadRezaHeydari-se/DevOps_Interview_Lab)
+A Python-based practice tool for junior DevOps, cloud, and infrastructure interviews. It includes a question bank, role-focused practice sessions, a command-line interface, and tests.
+
+**Python · CLI · Unit testing**
+
+### [Remote Linux Service Manager](https://github.com/MohammadRezaHeydari-se/LinuxServerManager)
+A Python tool for connecting to Linux servers over SSH and managing services remotely.
+
+**Python · SSH · Paramiko · systemctl**
+
+### [Linux Learning System](https://github.com/MohammadRezaHeydari-se/LinuxLearningSys)
+An interactive way to practice Linux commands using a simulated terminal and virtual filesystem, with lessons in English, Swedish, and Persian.
+
+**JavaScript · HTML · CSS · Linux**
+
+### [Gutendex Book API Project](https://github.com/MohammadRezaHeydari-se/python_projects)
+A Flask application that uses the Gutendex and Google Books APIs to search for books and retrieve information.
+
+**Python · Flask · REST APIs**
+
+### [Windows Server Lab](https://github.com/MohammadRezaHeydari-se/WinServer)
+Coursework exploring Windows Server administration, Group Policy, and infrastructure planning.
+
+**Windows Server · GPO · IT infrastructure**
+
+## What I'm learning next
+
+I'm continuing to build my skills in **Ansible, CI/CD, Azure infrastructure, Docker, Kubernetes, security, and monitoring** through coursework and hands-on labs.
+
+## Let's connect
+
+I'm always happy to connect with people working in DevOps, cloud, and infrastructure — especially to exchange ideas and learn from real-world projects.
+
+- [LinkedIn](https://www.linkedin.com/in/mohammad-reza-heydari-76b102229/)
+- [Automationsguiden](https://automationsguiden.se/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MohammadRezaHeydari-se&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Learning by building, testing, troubleshooting, and improving.*
